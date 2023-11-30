@@ -2,7 +2,7 @@
 
 - 🔭 Formado:  Em  Tecnologia em gestão da tecnologia da informação na uninove2023.
 - 🌱 Estudando na RecodePro2023: HTML, CSS, JAVASCRIPT e TYPESCRIPT Versionamento de Git, Java, JavaScript, React.Js, Linux, Banco de Dados NoSql
-- 📗 Estudando: Python
+-  Estudando: Python
 
 
 <hr>
