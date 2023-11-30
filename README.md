@@ -2,10 +2,10 @@
 
 
 
-- 👨‍🎓 Estudando na RecodePro2023.
-- 👨‍🎓 Estudante das seguintes tecnologias, Métodologias ágeis, Html, CSS, Boostrap, Versionamento de Git, Java, JavaScript, React.Js, Linux, Banco de Dados NoSql.
-- 🌱Skils , HTML, CSS e JavaScript.
+- 👨‍🎓 Estudou na uninove.
 - Tecnologia em gestão da tecnologia da informação
+- 👨‍🎓 Estudante   na RecodePro2023 das seguintes tecnologias, Métodologias ágeis, Html, CSS, Boostrap, Versionamento de Git, Java, JavaScript, React.Js, Linux, Banco de Dados NoSql.
+- 🌱Skils , HTML, CSS e JavaScript.
 - 🤖 uninove: ele/dele.
 <hr>
 <div>
