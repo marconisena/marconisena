@@ -1,10 +1,8 @@
-🤖Olá! Eu sou Marconi Sena da Silva 🤖
+## Olá! Eu sou o Marconi Sena da Silva
 
-
-
-- 👨‍🎓 Formado na uninove 2023.
-- Tecnologia em gestão da tecnologia da informação
-- 👨‍🎓 Estudante   na RecodePro2023 das seguintes tecnologias, Métodologias ágeis, Html, CSS, Boostrap, Versionamento de Git, Java, JavaScript, React.Js, Linux, Banco de Dados NoSql.
+- 🔭 Formado:  Em  Tecnologia em gestão da tecnologia da informação na uninove2023.
+- 🌱 Estudando na RecodePro2023: HTML, CSS, JAVASCRIPT e TYPESCRIPT Versionamento de Git, Java, JavaScript, React.Js, Linux, Banco de Dados NoSql
+- 📗 Estudando: Python
 
 
 <hr>
