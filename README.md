@@ -14,7 +14,7 @@
     
 <div style="display: inline_block"><br>
   <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=blender,bootstrap,cs,css,eclipse,github,html,java,js,linux,mongodb,mysql,nodejs,ps,py,react,spring,unity,visualstudio,vscode" />
+<img src="https://skillicons.dev/icons?i=bootstrap,cs,css,eclipse,github,html,java,js,linux,mongodb,mysql,nodejs,ps,py,react,spring,unity,visualstudio,vscode" />
 </a>
  </div>
 <hr>
